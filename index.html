@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mon Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Bienvenu, je suis Junior</h1>
+    <p>Étudiant en 1ère année à l’Université de Yaoundé I</p>
+    <nav>
+      <a href="#about">À propos</a>
+      <a href="#skills">Compétences</a>
+      <a href="#projects">Projet</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>À propos de moi</h2>
+    <p>Je me nomme <em>MOUKAM BRANDON</em>,je suis étudiant en 1ére année informatique à l'université de yaoundé 1 à yaoundé</p>
+    <p>je vis actuellement au cameroun à yaoundé dans le quartier biyem Assi</p>
+  </section>
+
+  <section id="skills">
+    <h2>Compétences</h2>
+    <ul>
+      <li>Java</li>
+      <li>HTML & CSS</li>
+      <li>JavaScript</li>
+      <li>Git & GitHub</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projet réalisé</h2>
+    <div class="project-card">
+      <h3>Calculatrice en Java</h3>
+      <p>Une application console qui permet d’effectuer les opérations de base : addition, soustraction, multiplication, division.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contacte-moi</h2>
+    <form id="contactForm">
+      <input type="text" placeholder="Ton nom" required />
+      <input type="email" placeholder="Ton email" required />
+      <textarea placeholder="Ton message" required></textarea>
+      <button type="submit">Envoyer</button>
+    </form>
+    <p id="messageStatus"></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Junior - Tous droits réservés.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
