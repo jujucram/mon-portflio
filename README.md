@@ -20,9 +20,9 @@ Ce portfolio a entièrement été développé par l’apprenti dev Brandon.
 - JavaScript (optionnel si tu en as utilisé)
 - Git & GitHub
 
----
-![Akashi Seijuro](https://static.wikia.nocookie.net/kurokonobasuke/images/4/4f/Seij%C5%ABr%C5%8D_Akashi.png)
----
+
+https://files.catbox.moe/aqy4oa.jpg
+
 
 ## 🎯 Objectif
 
