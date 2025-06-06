@@ -7,9 +7,9 @@ Ce projet présente mes compétences, projets et parcours dans le domaine du dé
 
 ---
 
-## 🌟 Aperçu
+## 👨‍💻 Développeur 
+Ce portfolio a entièrement été développé par l’apprenti dev Brandon.
 
-(https://i.pinimg.com/originals/58/b5/cc/58b5cc5f87fd3cf3c1c3e2a4cf27d3d3.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Ce portfolio a été conçu dans le but de :
 Tu peux me retrouver ici :
 
 - Instagram : https://www.instagram.com/b.r.a.n_don14?igsh=MTdoZHgyNWlwczRrNg==
-- GitHub : [jujucram](https://github.com/jujucram)
+- e-mail : brindicram@gmail.com 
 - whatsapp : +237679700294
 ---
 
