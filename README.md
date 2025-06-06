@@ -21,7 +21,9 @@ Ce portfolio a entièrement été développé par l’apprenti dev Brandon.
 - Git & GitHub
 
 
-https://files.catbox.moe/aqy4oa.jpg
+---
+
+==== Brandon ====
 
 
 ## 🎯 Objectif
