@@ -22,10 +22,7 @@ Ce portfolio a été créé pour présenter mon profil professionnel et mes trav
 - Section contact  
 - Design moderne et responsive  
 
-## 📸 Aperçu du site
 
-*(Ajoute ici une capture d’écran de ton portfolio)*  
-![Aperçu du portfolio](./assets/images/preview.png)
 
 ## 👨🏽‍💻 Auteur
 
