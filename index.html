@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Mon portoflio perosnnel</title>
+  <link rel="stylesheet" href="style.css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur mon portoflio personnel</h1>
+    <h2>Salut! je suis Brandon Moukam</h2>
+    <p>Développeur web front-end junior</p>
+   
+    <nav>
+       <a href="#about"> A propos</a>
+       <a href="#skills">Compétences</a>
+       <a href="#projects"> Projets réalisés</a>
+       <a href="#contacts"> Contactez-moi</a>
+    </nav>
+   
+  </header>
+  <section id="about">
+    <h2>A propos</h2>
+    <div class="container">
+       <div class="texte">texte portfolio</div>
+       <div class="photo">
+        
+       </div>
+    </div>
+    <p>Je me nomme MOUKAM WETOMDIO BRANDON, étudiant en filière informatique à l'université de yaoundé 1<br></p>
+    <p>Je suis spécialisé dans le développement web front-end. <br>Egalement je suis programmeur en java pour le développement android, je maitrise le C, je suis entrain de me spécialiser dans le domaine de l'IA par curiosité et par désir d'apprendre plus et de marquer mon pas dans le monde de la tech</p>
+  </section>
+  <section id="skills">
+     <h2>Compétences</h2>
+     <ul>
+      <li>Java</li>
+      <li>HTML & CSS</li>
+      <li>Javascript</li>
+      <li>Git & Github</li>
+     </ul>
+  </section>
+  <section id="projects">
+      <h2>Projets réalisés</h2>
+      <div class="project-card">
+        <h3>Calculatrice en java</h3>
+        <p>une application console qui permet d'effectuer les opérations de base: addiction, soustraction, multiplication, division</p>
+       <h3>Login connexion</h3>
+       <p>J'ai coder le login de connexion d'un projet scolaire</p>
+      </div>
+  </section>
+  <section id="contacts">
+      <h2>Contactez-moi</h2>
+      <form id="contactform">
+         <input type="text" placeholder="Ton nom" required/>
+         <input type="text" placeholder="Ton prénom" required/>
+         <input type="email" placeholder="Ton email" required/>
+         <textarea placeholder="Ton message" required></textarea>
+         <button type="submit">Envoyer</button>
+      </form>
+      <p id="messageStatus"></p>
+  </section>
+  <footer>
+    <p>&copy;2025 Brandon Moukam - Tous droits réservés.</p>
+  </footer>
+  <script src="index.js"></script>
+</body>
+</html>
